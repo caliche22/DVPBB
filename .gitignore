@@ -1,0 +1,80 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]eleases/
+[Rr]eleasesPublic/
+x64/
+x86/
+[Aa]llBuild/
+[Aa]llBuildLogs/
+[Ll]og/
+[Ll]ogs/
+[Bb]in/
+[Oo]bj/
+[Ll]ib/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+*.pkgproj
+*.dotnet/
+*.nuget/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# VS Code settings
+.vscode/
+
+# Rider settings
+.idea/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.suo
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# JetBrains Rider
+.idea/
+
+# Rider
+.idea/
+*.suo
+*.user
+*.userosscache
+*.suo
+
+# Visual Studio
+.vs/
+*.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# DotCover
+*.dotCover
+
+# Code analysis
+*.coverage
+*.coveragexml
+*.ruleset
+
+# Team Foundation Server
+tf/
+
+# NCrunch
+*.ncrunch*
+*.*crunch*
